@@ -29,7 +29,13 @@ Digital Marketing Executive — workflow design, marketing performance analysis,
 - Made campaign reporting easier to distribute and review.
 
 ## Screenshots
-Add anonymised screenshots of the workflow and sample report here.
+### 1. n8n Automation Workflow
+
+![n8n Automation Workflow](n8n%20workflow%20screenshot.png)
+
+### 2. Generated Marketing Report Summary
+
+![Generated Marketing Report Summary](summary%20of%20n8n%20report%20in%20ppt.png)
 
 ## Key Learnings
 Document the API challenges, data validation, error handling, and improvements you implemented.
